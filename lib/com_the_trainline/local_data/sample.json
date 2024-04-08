@@ -1,0 +1,2712 @@
+{
+  "data": {
+    "journeySearch": {
+      "passengers": {
+        "pid-0": {
+          "id": "pid-0",
+          "dateOfBirth": "1989-04-06T00:00:00"
+        }
+      },
+      "journeys": {
+        "journey-90e12e8d-8529-46d9-98b5-c77007735559": {
+          "sections": [
+            "section-ac6045fc-9cb6-4226-968a-3a23b8e75c15"
+          ],
+          "id": "journey-90e12e8d-8529-46d9-98b5-c77007735559",
+          "direction": "outward",
+          "legs": [
+            "leg-3ace83be-938c-4f93-a4f3-b407bb41d8de"
+          ],
+          "departAt": "2024-04-08T20:00:00+01:00",
+          "arriveAt": "2024-04-08T23:15:00+01:00",
+          "duration": "PT3H15M",
+          "hash": "XLzJLGNoPlo=",
+          "hasFirstClassRecommendedStationPair": false,
+          "distanceInKm": 0
+        },
+        "journey-23d6fc5c-89db-4848-b0c3-8107a67c166a": {
+          "sections": [
+            "section-9271d1e4-079b-4f19-9c02-3637a7f7163b"
+          ],
+          "id": "journey-23d6fc5c-89db-4848-b0c3-8107a67c166a",
+          "direction": "outward",
+          "legs": [
+            "leg-65a30d91-f7df-4be1-90d4-4f1dc937c73f"
+          ],
+          "departAt": "2024-04-08T20:00:00+01:00",
+          "arriveAt": "2024-04-08T23:30:00+01:00",
+          "duration": "PT3H30M",
+          "hash": "2NfXvSHl7fk=",
+          "hasFirstClassRecommendedStationPair": false,
+          "distanceInKm": 0
+        },
+        "journey-443e333d-c7b3-4594-bf90-e5f2762cb0ab": {
+          "sections": [
+            "section-d73d7f66-c9d1-4a07-8455-72d1b1728370"
+          ],
+          "id": "journey-443e333d-c7b3-4594-bf90-e5f2762cb0ab",
+          "direction": "outward",
+          "legs": [
+            "leg-67439339-379a-4bf7-a909-1506c4f54aa5"
+          ],
+          "departAt": "2024-04-08T20:30:00+01:00",
+          "arriveAt": "2024-04-08T23:45:00+01:00",
+          "duration": "PT3H15M",
+          "hash": "x6ca8aXKQA4=",
+          "hasFirstClassRecommendedStationPair": false,
+          "distanceInKm": 0
+        },
+        "journey-770860f6-f851-4c66-9f93-0037181a7606": {
+          "sections": [
+            "section-0c639a4e-69f3-41ad-926a-5f89ca27e8a6"
+          ],
+          "id": "journey-770860f6-f851-4c66-9f93-0037181a7606",
+          "direction": "outward",
+          "legs": [
+            "leg-a4c8dd9e-a373-45f5-b98e-efda5803ba6c"
+          ],
+          "departAt": "2024-04-08T20:30:00+01:00",
+          "arriveAt": "2024-04-08T23:45:00+01:00",
+          "duration": "PT3H15M",
+          "hash": "TEMEBFnNrMw=",
+          "hasFirstClassRecommendedStationPair": false,
+          "distanceInKm": 0
+        },
+        "journey-ee7add53-3c3c-44cb-86c9-f0fc582ba5fe": {
+          "sections": [
+            "section-3d7ebc22-0369-432a-8820-40e0fd87479c"
+          ],
+          "id": "journey-ee7add53-3c3c-44cb-86c9-f0fc582ba5fe",
+          "direction": "outward",
+          "legs": [
+            "leg-a90eaae2-0c47-4cd1-bbe8-6bfee25ec23e"
+          ],
+          "departAt": "2024-04-08T20:30:00+01:00",
+          "arriveAt": "2024-04-09T00:05:00+01:00",
+          "duration": "PT3H35M",
+          "hash": "RKB19V+2RPg=",
+          "hasFirstClassRecommendedStationPair": false,
+          "distanceInKm": 0
+        },
+        "journey-6b4198ce-85d7-4f40-8e48-8de6e868a611": {
+          "sections": [
+            "section-0c7da159-0e78-4392-8b0b-b881bdae68c9"
+          ],
+          "id": "journey-6b4198ce-85d7-4f40-8e48-8de6e868a611",
+          "direction": "outward",
+          "legs": [
+            "leg-3fc6287d-faf7-4492-b4eb-7370c619639d"
+          ],
+          "departAt": "2024-04-08T20:45:00+01:00",
+          "arriveAt": "2024-04-09T00:05:00+01:00",
+          "duration": "PT3H20M",
+          "hash": "H26MPSiTH/k=",
+          "hasFirstClassRecommendedStationPair": false,
+          "distanceInKm": 0
+        },
+        "journey-d943fcf3-d6ee-426f-82f2-8e8b30972f1d": {
+          "sections": [
+            "section-fb3ed48a-7d97-4018-984f-8635caeaa670"
+          ],
+          "id": "journey-d943fcf3-d6ee-426f-82f2-8e8b30972f1d",
+          "direction": "outward",
+          "legs": [
+            "leg-9812fbad-3070-408c-b51c-36aa559154eb"
+          ],
+          "departAt": "2024-04-08T21:00:00+01:00",
+          "arriveAt": "2024-04-09T00:30:00+01:00",
+          "duration": "PT3H30M",
+          "hash": "WUF2/AsGHm0=",
+          "hasFirstClassRecommendedStationPair": false,
+          "distanceInKm": 0
+        },
+        "journey-86dbee13-3a07-4205-a375-6a6d92e567db": {
+          "sections": [
+            "section-82a2ac4a-1df7-429d-9582-5aec28865771"
+          ],
+          "id": "journey-86dbee13-3a07-4205-a375-6a6d92e567db",
+          "direction": "outward",
+          "legs": [
+            "leg-c9c811c8-fd0e-4c3f-b55f-578d76fd470d"
+          ],
+          "departAt": "2024-04-08T21:45:00+01:00",
+          "arriveAt": "2024-04-09T01:10:00+01:00",
+          "duration": "PT3H25M",
+          "hash": "bymI8mF2AU8=",
+          "hasFirstClassRecommendedStationPair": false,
+          "distanceInKm": 0
+        },
+        "journey-c5c626d5-9378-49c9-a55d-00c010a02d08": {
+          "sections": [
+            "section-12cc4b9f-68cf-42c2-982d-a983d6d9bf26"
+          ],
+          "id": "journey-c5c626d5-9378-49c9-a55d-00c010a02d08",
+          "direction": "outward",
+          "legs": [
+            "leg-cdd4943b-d00b-4ebd-b195-8723ae38c8a9"
+          ],
+          "departAt": "2024-04-08T22:55:00+01:00",
+          "arriveAt": "2024-04-09T02:35:00+01:00",
+          "duration": "PT3H40M",
+          "hash": "sxflcoh21qU=",
+          "hasFirstClassRecommendedStationPair": false,
+          "distanceInKm": 0
+        },
+        "journey-9db462c4-8e97-4061-b1be-f52ec28aa3ce": {
+          "sections": [
+            "section-afceb2fb-40c9-4a8d-b2f2-c1cc08489393"
+          ],
+          "id": "journey-9db462c4-8e97-4061-b1be-f52ec28aa3ce",
+          "direction": "outward",
+          "legs": [
+            "leg-ec350942-d3c6-484c-be45-884a81567c01"
+          ],
+          "departAt": "2024-04-08T23:15:00+01:00",
+          "arriveAt": "2024-04-09T02:45:00+01:00",
+          "duration": "PT3H30M",
+          "hash": "e+M8HXEhgCY=",
+          "hasFirstClassRecommendedStationPair": false,
+          "distanceInKm": 0
+        }
+      },
+      "createdAt": "2024-04-06T19:02:57.9960729Z",
+      "pagination": {
+        "next": {
+          "outward": true,
+          "inward": false
+        },
+        "previous": {
+          "outward": true,
+          "inward": false
+        }
+      },
+      "id": "d045b172-eedc-4b2e-b6c3-9f0a0b19a0cf",
+      "expiresAt": "2024-04-06T19:42:45Z",
+      "alternatives": {
+        "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-26e86958-6315-44d6-8cf7-1ec9660b02fd": {
+          "id": "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-26e86958-6315-44d6-8cf7-1ec9660b02fd",
+          "price": {
+            "amount": 4.99,
+            "currencyCode": "EUR",
+            "currencyConversionApplied": false
+          },
+          "fullPrice": {
+            "amount": 4.99,
+            "currencyCode": "EUR",
+            "currencyConversionApplied": false
+          },
+          "fares": [
+            "fare-b1aecbcf-028f-4ab9-9948-fcbde026e271"
+          ],
+          "farePassengers": [
+            {
+              "passengers": [
+                {
+                  "id": "pid-0",
+                  "passengerType": "6da99990266c7b991b4f4855a2b0a759e676da41"
+                }
+              ],
+              "fareId": "fare-b1aecbcf-028f-4ab9-9948-fcbde026e271"
+            }
+          ],
+          "isPartial": false,
+          "flexibility": {
+            "code": "urn:trainline:flex:semiflexi",
+            "name": "semiflexi",
+            "language": "en"
+          },
+          "selectedExtras": [
+            {
+              "id": "b0f3070a-2a58-4554-a7a6-a951aa49505a",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b7a7380c88417ceb0d532715b2a1f810228a0adb",
+                "code": "urn:trainline:flixbus:extra:wifi-5714ded5a21638883fd9110bfe245258",
+                "name": "WiFi",
+                "description": "Free WiFi available onboard.",
+                "group": "wifi"
+              },
+              "farePassengerIds": [
+                "fare-passenger-2ee95ee9-a173-4fc5-857d-6989de88847b"
+              ],
+              "legIds": [
+                "leg-3ace83be-938c-4f93-a4f3-b407bb41d8de"
+              ]
+            },
+            {
+              "id": "b85bf3df-1b48-4a5c-bcc4-2ee9273a8786",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "7aab748ee530ab674977cf1f77d7c790c88517a1",
+                "code": "urn:trainline:flixbus:extra:hand_luggage-d080937cda71c70fa4bc6ac637f3a539",
+                "name": "Hand baggage",
+                "description": "Max. 42 x 30 x 18 cm, max. 7 kg.",
+                "group": "handLuggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-2ee95ee9-a173-4fc5-857d-6989de88847b"
+              ],
+              "legIds": [
+                "leg-3ace83be-938c-4f93-a4f3-b407bb41d8de"
+              ]
+            },
+            {
+              "id": "54fda7b8-eece-4bd7-b6a7-8737a3dc1cce",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b25db8baf93df3c86e523dca1927e35cf65c63da",
+                "code": "urn:trainline:flixbus:extra:travel_luggage-9ffffacc9e6e2dca85770495f79bb824",
+                "name": "Travel baggage",
+                "description": "Max. 80 x 50 x 30 cm, max. 20 kg.",
+                "group": "luggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-2ee95ee9-a173-4fc5-857d-6989de88847b"
+              ],
+              "legIds": [
+                "leg-3ace83be-938c-4f93-a4f3-b407bb41d8de"
+              ]
+            }
+          ],
+          "comfortClassCorrelationToken": "40c929c2f44811ee825ae63a51169627",
+          "affiliation": {
+            "href": "https://shop.global.flixbus.com/s?departureCity=14068&departureStation=23658&arrivalCity=13938&arrivalStation=16958&rideDate=08.04.2024&adult=1&children=0&bike_slot=0&currency=EUR&uid=direct%3A261441543%3A23658%3A16958&reserve=1&hash=3d5fdeb2&wt_mc=.com.flixbus.meta.trainline.trainline_com.IR.ad&wt_cc1=en-meta&utm_source=trainline&utm_medium=meta&utm_campaign=trainline_com.IR.en-meta&utm_content=com.flixbus&irpid=428897&ircid=5610#Q0ScomC1926&subId1=tlsgp",
+            "label": "Flixbus.com"
+          },
+          "billableUnits": [
+            {
+              "correlationToken": "645a40d27cc0409a337be22d579bcee65fe67053",
+              "fareLegIds": [
+                "fare-leg-dfe527bf-e765-4d4c-9f47-630e32186448"
+              ],
+              "originalPrice": {
+                "amount": 4.99,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "price": {
+                "amount": 4.99,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "passengerIds": [
+                "pid-0"
+              ]
+            }
+          ],
+          "hash": "WNtq3/OJSPU=",
+          "composition": [],
+          "availableExtras": [
+            {
+              "id": "b0f3070a-2a58-4554-a7a6-a951aa49505a",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b7a7380c88417ceb0d532715b2a1f810228a0adb",
+                "code": "urn:trainline:flixbus:extra:wifi-5714ded5a21638883fd9110bfe245258",
+                "name": "WiFi",
+                "description": "Free WiFi available onboard.",
+                "group": "wifi"
+              },
+              "farePassengerIds": [
+                "fare-passenger-2ee95ee9-a173-4fc5-857d-6989de88847b"
+              ],
+              "legIds": [
+                "leg-3ace83be-938c-4f93-a4f3-b407bb41d8de"
+              ]
+            },
+            {
+              "id": "b85bf3df-1b48-4a5c-bcc4-2ee9273a8786",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "7aab748ee530ab674977cf1f77d7c790c88517a1",
+                "code": "urn:trainline:flixbus:extra:hand_luggage-d080937cda71c70fa4bc6ac637f3a539",
+                "name": "Hand baggage",
+                "description": "Max. 42 x 30 x 18 cm, max. 7 kg.",
+                "group": "handLuggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-2ee95ee9-a173-4fc5-857d-6989de88847b"
+              ],
+              "legIds": [
+                "leg-3ace83be-938c-4f93-a4f3-b407bb41d8de"
+              ]
+            },
+            {
+              "id": "54fda7b8-eece-4bd7-b6a7-8737a3dc1cce",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b25db8baf93df3c86e523dca1927e35cf65c63da",
+                "code": "urn:trainline:flixbus:extra:travel_luggage-9ffffacc9e6e2dca85770495f79bb824",
+                "name": "Travel baggage",
+                "description": "Max. 80 x 50 x 30 cm, max. 20 kg.",
+                "group": "luggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-2ee95ee9-a173-4fc5-857d-6989de88847b"
+              ],
+              "legIds": [
+                "leg-3ace83be-938c-4f93-a4f3-b407bb41d8de"
+              ]
+            }
+          ],
+          "savings": [],
+          "expiresAt": "2024-04-06T19:42:45Z"
+        },
+        "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-1eade8b3-4653-42a3-81fc-44edfedfbdd5": {
+          "id": "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-1eade8b3-4653-42a3-81fc-44edfedfbdd5",
+          "price": {
+            "amount": 10.99,
+            "currencyCode": "EUR",
+            "currencyConversionApplied": false
+          },
+          "fullPrice": {
+            "amount": 10.99,
+            "currencyCode": "EUR",
+            "currencyConversionApplied": false
+          },
+          "fares": [
+            "fare-9d2fa3bf-4b0a-4457-9e96-113eb66ecd22"
+          ],
+          "farePassengers": [
+            {
+              "passengers": [
+                {
+                  "id": "pid-0",
+                  "passengerType": "6da99990266c7b991b4f4855a2b0a759e676da41"
+                }
+              ],
+              "fareId": "fare-9d2fa3bf-4b0a-4457-9e96-113eb66ecd22"
+            }
+          ],
+          "isPartial": false,
+          "flexibility": {
+            "code": "urn:trainline:flex:semiflexi",
+            "name": "semiflexi",
+            "language": "en"
+          },
+          "selectedExtras": [
+            {
+              "id": "d3d41e4b-98a9-4144-8b3d-25c86c6cedd0",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "639c52a6c0c188b29cc8463c3b33b5f395dce898",
+                "code": "urn:trainline:busbud:extra:hand_luggage-6762a1db52775613510ea0a7165284d9",
+                "name": "Hand baggage",
+                "description": null,
+                "group": "handLuggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-e7564eb1-a393-4125-8914-9edbaab84c57"
+              ],
+              "legIds": [
+                "leg-65a30d91-f7df-4be1-90d4-4f1dc937c73f"
+              ]
+            },
+            {
+              "id": "f9d49529-49f5-4d35-b17e-feb2646802a4",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b0a8ae4047af7333764d62fd239e413211895199",
+                "code": "urn:trainline:busbud:extra:travel_luggage.weight_known-c191a36d1472998f3cb223f5986b91fa",
+                "name": "1 travel baggage of 20 kg",
+                "description": null,
+                "group": "luggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-e7564eb1-a393-4125-8914-9edbaab84c57"
+              ],
+              "legIds": [
+                "leg-65a30d91-f7df-4be1-90d4-4f1dc937c73f"
+              ]
+            }
+          ],
+          "comfortClassCorrelationToken": "47bccba8f44811ee880b87ad890f0198",
+          "billableUnits": [
+            {
+              "correlationToken": "f5e4eb966e34ede18a7b134b61f03c774818c401",
+              "fareLegIds": [
+                "fare-leg-efdfc341-d6f7-4fe2-9195-f6663d5d650e"
+              ],
+              "originalPrice": {
+                "amount": 10.99,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "price": {
+                "amount": 10.99,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "passengerIds": [
+                "pid-0"
+              ]
+            }
+          ],
+          "hash": "09tEY4J6cNM=",
+          "composition": [],
+          "availableExtras": [
+            {
+              "id": "d3d41e4b-98a9-4144-8b3d-25c86c6cedd0",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "639c52a6c0c188b29cc8463c3b33b5f395dce898",
+                "code": "urn:trainline:busbud:extra:hand_luggage-6762a1db52775613510ea0a7165284d9",
+                "name": "Hand baggage",
+                "description": null,
+                "group": "handLuggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-e7564eb1-a393-4125-8914-9edbaab84c57"
+              ],
+              "legIds": [
+                "leg-65a30d91-f7df-4be1-90d4-4f1dc937c73f"
+              ]
+            },
+            {
+              "id": "f9d49529-49f5-4d35-b17e-feb2646802a4",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b0a8ae4047af7333764d62fd239e413211895199",
+                "code": "urn:trainline:busbud:extra:travel_luggage.weight_known-c191a36d1472998f3cb223f5986b91fa",
+                "name": "1 travel baggage of 20 kg",
+                "description": null,
+                "group": "luggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-e7564eb1-a393-4125-8914-9edbaab84c57"
+              ],
+              "legIds": [
+                "leg-65a30d91-f7df-4be1-90d4-4f1dc937c73f"
+              ]
+            }
+          ],
+          "savings": [],
+          "expiresAt": "2024-04-06T19:42:45Z"
+        },
+        "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-11360451-7e45-459c-837c-c4194dc36f5a": {
+          "id": "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-11360451-7e45-459c-837c-c4194dc36f5a",
+          "price": {
+            "amount": 7.6,
+            "currencyCode": "EUR",
+            "currencyConversionApplied": false
+          },
+          "fullPrice": {
+            "amount": 7.6,
+            "currencyCode": "EUR",
+            "currencyConversionApplied": false
+          },
+          "fares": [
+            "fare-1f451e25-e75a-49fa-bbd1-4c17994439c3"
+          ],
+          "farePassengers": [
+            {
+              "passengers": [
+                {
+                  "id": "pid-0",
+                  "passengerType": "6da99990266c7b991b4f4855a2b0a759e676da41"
+                }
+              ],
+              "fareId": "fare-1f451e25-e75a-49fa-bbd1-4c17994439c3"
+            }
+          ],
+          "isPartial": false,
+          "flexibility": {
+            "code": "urn:trainline:flex:semiflexi",
+            "name": "semiflexi",
+            "language": "en"
+          },
+          "selectedExtras": [
+            {
+              "id": "30757461-db29-4857-8d41-66f852d418b0",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "639c52a6c0c188b29cc8463c3b33b5f395dce898",
+                "code": "urn:trainline:busbud:extra:hand_luggage-6762a1db52775613510ea0a7165284d9",
+                "name": "Hand baggage",
+                "description": null,
+                "group": "handLuggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-c0131bb5-ed8f-4d13-8a8b-ec20e067bd33"
+              ],
+              "legIds": [
+                "leg-67439339-379a-4bf7-a909-1506c4f54aa5"
+              ]
+            },
+            {
+              "id": "633b901b-bba8-435d-b771-53fca5fe9b10",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b0a8ae4047af7333764d62fd239e413211895199",
+                "code": "urn:trainline:busbud:extra:travel_luggage.weight_known-c191a36d1472998f3cb223f5986b91fa",
+                "name": "1 travel baggage of 20 kg",
+                "description": null,
+                "group": "luggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-c0131bb5-ed8f-4d13-8a8b-ec20e067bd33"
+              ],
+              "legIds": [
+                "leg-67439339-379a-4bf7-a909-1506c4f54aa5"
+              ]
+            }
+          ],
+          "comfortClassCorrelationToken": "47bcdbfcf44811ee8c7cd04a061d241e",
+          "billableUnits": [
+            {
+              "correlationToken": "f0eef94d6b52999851ca60dcade0ebac00c4aa21",
+              "fareLegIds": [
+                "fare-leg-1fa5b99a-dbbb-416e-af96-518980294f84"
+              ],
+              "originalPrice": {
+                "amount": 7.6,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "price": {
+                "amount": 7.6,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "passengerIds": [
+                "pid-0"
+              ]
+            }
+          ],
+          "hash": "QkmJdwO8tnE=",
+          "composition": [],
+          "availableExtras": [
+            {
+              "id": "30757461-db29-4857-8d41-66f852d418b0",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "639c52a6c0c188b29cc8463c3b33b5f395dce898",
+                "code": "urn:trainline:busbud:extra:hand_luggage-6762a1db52775613510ea0a7165284d9",
+                "name": "Hand baggage",
+                "description": null,
+                "group": "handLuggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-c0131bb5-ed8f-4d13-8a8b-ec20e067bd33"
+              ],
+              "legIds": [
+                "leg-67439339-379a-4bf7-a909-1506c4f54aa5"
+              ]
+            },
+            {
+              "id": "633b901b-bba8-435d-b771-53fca5fe9b10",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b0a8ae4047af7333764d62fd239e413211895199",
+                "code": "urn:trainline:busbud:extra:travel_luggage.weight_known-c191a36d1472998f3cb223f5986b91fa",
+                "name": "1 travel baggage of 20 kg",
+                "description": null,
+                "group": "luggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-c0131bb5-ed8f-4d13-8a8b-ec20e067bd33"
+              ],
+              "legIds": [
+                "leg-67439339-379a-4bf7-a909-1506c4f54aa5"
+              ]
+            }
+          ],
+          "savings": [],
+          "expiresAt": "2024-04-06T19:42:45Z"
+        },
+        "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-0d008365-c2bd-46b0-bfbf-db26e218de97": {
+          "id": "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-0d008365-c2bd-46b0-bfbf-db26e218de97",
+          "price": {
+            "amount": 4.99,
+            "currencyCode": "EUR",
+            "currencyConversionApplied": false
+          },
+          "fullPrice": {
+            "amount": 4.99,
+            "currencyCode": "EUR",
+            "currencyConversionApplied": false
+          },
+          "fares": [
+            "fare-678fd4ad-777e-43ec-a8e3-396caad4cf1f"
+          ],
+          "farePassengers": [
+            {
+              "passengers": [
+                {
+                  "id": "pid-0",
+                  "passengerType": "6da99990266c7b991b4f4855a2b0a759e676da41"
+                }
+              ],
+              "fareId": "fare-678fd4ad-777e-43ec-a8e3-396caad4cf1f"
+            }
+          ],
+          "isPartial": false,
+          "flexibility": {
+            "code": "urn:trainline:flex:semiflexi",
+            "name": "semiflexi",
+            "language": "en"
+          },
+          "selectedExtras": [
+            {
+              "id": "4b44525b-5171-4c4d-b2b6-10feb93bce35",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b7a7380c88417ceb0d532715b2a1f810228a0adb",
+                "code": "urn:trainline:flixbus:extra:wifi-5714ded5a21638883fd9110bfe245258",
+                "name": "WiFi",
+                "description": "Free WiFi available onboard.",
+                "group": "wifi"
+              },
+              "farePassengerIds": [
+                "fare-passenger-56bd0844-a872-4ce5-b6e2-ef9e1231f11a"
+              ],
+              "legIds": [
+                "leg-a4c8dd9e-a373-45f5-b98e-efda5803ba6c"
+              ]
+            },
+            {
+              "id": "2cc20de8-bee8-4ad1-9111-881ffbd8fe3b",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "7aab748ee530ab674977cf1f77d7c790c88517a1",
+                "code": "urn:trainline:flixbus:extra:hand_luggage-d080937cda71c70fa4bc6ac637f3a539",
+                "name": "Hand baggage",
+                "description": "Max. 42 x 30 x 18 cm, max. 7 kg.",
+                "group": "handLuggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-56bd0844-a872-4ce5-b6e2-ef9e1231f11a"
+              ],
+              "legIds": [
+                "leg-a4c8dd9e-a373-45f5-b98e-efda5803ba6c"
+              ]
+            },
+            {
+              "id": "b1f28394-3740-4881-acf3-80e713b2d1d3",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b25db8baf93df3c86e523dca1927e35cf65c63da",
+                "code": "urn:trainline:flixbus:extra:travel_luggage-9ffffacc9e6e2dca85770495f79bb824",
+                "name": "Travel baggage",
+                "description": "Max. 80 x 50 x 30 cm, max. 20 kg.",
+                "group": "luggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-56bd0844-a872-4ce5-b6e2-ef9e1231f11a"
+              ],
+              "legIds": [
+                "leg-a4c8dd9e-a373-45f5-b98e-efda5803ba6c"
+              ]
+            }
+          ],
+          "comfortClassCorrelationToken": "40c93aacf44811ee8668a2553105eb9b",
+          "affiliation": {
+            "href": "https://shop.global.flixbus.com/s?departureCity=14068&departureStation=23658&arrivalCity=13938&arrivalStation=16958&rideDate=08.04.2024&adult=1&children=0&bike_slot=0&currency=EUR&uid=direct%3A261773123%3A23658%3A16958&reserve=1&hash=3d5fdeb2&wt_mc=.com.flixbus.meta.trainline.trainline_com.IR.ad&wt_cc1=en-meta&utm_source=trainline&utm_medium=meta&utm_campaign=trainline_com.IR.en-meta&utm_content=com.flixbus&irpid=428897&ircid=5610#Q0ScomC1926&subId1=tlsgp",
+            "label": "Flixbus.com"
+          },
+          "billableUnits": [
+            {
+              "correlationToken": "c9fec04cb0d1840b10bba0c33c2512dc3de529d5",
+              "fareLegIds": [
+                "fare-leg-1f1b021c-6e51-49fe-8eb6-aa59d990ff70"
+              ],
+              "originalPrice": {
+                "amount": 4.99,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "price": {
+                "amount": 4.99,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "passengerIds": [
+                "pid-0"
+              ]
+            }
+          ],
+          "hash": "WNtq3/OJSPU=",
+          "composition": [],
+          "availableExtras": [
+            {
+              "id": "4b44525b-5171-4c4d-b2b6-10feb93bce35",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b7a7380c88417ceb0d532715b2a1f810228a0adb",
+                "code": "urn:trainline:flixbus:extra:wifi-5714ded5a21638883fd9110bfe245258",
+                "name": "WiFi",
+                "description": "Free WiFi available onboard.",
+                "group": "wifi"
+              },
+              "farePassengerIds": [
+                "fare-passenger-56bd0844-a872-4ce5-b6e2-ef9e1231f11a"
+              ],
+              "legIds": [
+                "leg-a4c8dd9e-a373-45f5-b98e-efda5803ba6c"
+              ]
+            },
+            {
+              "id": "2cc20de8-bee8-4ad1-9111-881ffbd8fe3b",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "7aab748ee530ab674977cf1f77d7c790c88517a1",
+                "code": "urn:trainline:flixbus:extra:hand_luggage-d080937cda71c70fa4bc6ac637f3a539",
+                "name": "Hand baggage",
+                "description": "Max. 42 x 30 x 18 cm, max. 7 kg.",
+                "group": "handLuggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-56bd0844-a872-4ce5-b6e2-ef9e1231f11a"
+              ],
+              "legIds": [
+                "leg-a4c8dd9e-a373-45f5-b98e-efda5803ba6c"
+              ]
+            },
+            {
+              "id": "b1f28394-3740-4881-acf3-80e713b2d1d3",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b25db8baf93df3c86e523dca1927e35cf65c63da",
+                "code": "urn:trainline:flixbus:extra:travel_luggage-9ffffacc9e6e2dca85770495f79bb824",
+                "name": "Travel baggage",
+                "description": "Max. 80 x 50 x 30 cm, max. 20 kg.",
+                "group": "luggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-56bd0844-a872-4ce5-b6e2-ef9e1231f11a"
+              ],
+              "legIds": [
+                "leg-a4c8dd9e-a373-45f5-b98e-efda5803ba6c"
+              ]
+            }
+          ],
+          "savings": [],
+          "expiresAt": "2024-04-06T19:42:45Z"
+        },
+        "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-0bc580ea-c158-4db7-b55e-abc4eb7804ca": {
+          "id": "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-0bc580ea-c158-4db7-b55e-abc4eb7804ca",
+          "price": {
+            "amount": 7.6,
+            "currencyCode": "EUR",
+            "currencyConversionApplied": false
+          },
+          "fullPrice": {
+            "amount": 7.6,
+            "currencyCode": "EUR",
+            "currencyConversionApplied": false
+          },
+          "fares": [
+            "fare-6d079c03-6eb1-4bec-badb-742263011415"
+          ],
+          "farePassengers": [
+            {
+              "passengers": [
+                {
+                  "id": "pid-0",
+                  "passengerType": "6da99990266c7b991b4f4855a2b0a759e676da41"
+                }
+              ],
+              "fareId": "fare-6d079c03-6eb1-4bec-badb-742263011415"
+            }
+          ],
+          "isPartial": false,
+          "flexibility": {
+            "code": "urn:trainline:flex:semiflexi",
+            "name": "semiflexi",
+            "language": "en"
+          },
+          "selectedExtras": [
+            {
+              "id": "1b2d3914-d5d8-41d0-bccd-21e33531d7c8",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "639c52a6c0c188b29cc8463c3b33b5f395dce898",
+                "code": "urn:trainline:busbud:extra:hand_luggage-6762a1db52775613510ea0a7165284d9",
+                "name": "Hand baggage",
+                "description": null,
+                "group": "handLuggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-2e143efd-23d0-4b19-8455-810133224a5e"
+              ],
+              "legIds": [
+                "leg-a90eaae2-0c47-4cd1-bbe8-6bfee25ec23e"
+              ]
+            },
+            {
+              "id": "346cff6f-3fee-4ab2-af6e-b234eca8d064",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b0a8ae4047af7333764d62fd239e413211895199",
+                "code": "urn:trainline:busbud:extra:travel_luggage.weight_known-c191a36d1472998f3cb223f5986b91fa",
+                "name": "1 travel baggage of 20 kg",
+                "description": null,
+                "group": "luggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-2e143efd-23d0-4b19-8455-810133224a5e"
+              ],
+              "legIds": [
+                "leg-a90eaae2-0c47-4cd1-bbe8-6bfee25ec23e"
+              ]
+            }
+          ],
+          "comfortClassCorrelationToken": "47bcec3cf44811ee9fac35d53b99dc64",
+          "billableUnits": [
+            {
+              "correlationToken": "c3d3979d7cdb6d9bca4932bd346c8a2c5e6123aa",
+              "fareLegIds": [
+                "fare-leg-c6b4aa8f-6559-4b0b-8de3-dde036f278ff"
+              ],
+              "originalPrice": {
+                "amount": 7.6,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "price": {
+                "amount": 7.6,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "passengerIds": [
+                "pid-0"
+              ]
+            }
+          ],
+          "hash": "ooj2MVQ/BQg=",
+          "composition": [],
+          "availableExtras": [
+            {
+              "id": "1b2d3914-d5d8-41d0-bccd-21e33531d7c8",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "639c52a6c0c188b29cc8463c3b33b5f395dce898",
+                "code": "urn:trainline:busbud:extra:hand_luggage-6762a1db52775613510ea0a7165284d9",
+                "name": "Hand baggage",
+                "description": null,
+                "group": "handLuggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-2e143efd-23d0-4b19-8455-810133224a5e"
+              ],
+              "legIds": [
+                "leg-a90eaae2-0c47-4cd1-bbe8-6bfee25ec23e"
+              ]
+            },
+            {
+              "id": "346cff6f-3fee-4ab2-af6e-b234eca8d064",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b0a8ae4047af7333764d62fd239e413211895199",
+                "code": "urn:trainline:busbud:extra:travel_luggage.weight_known-c191a36d1472998f3cb223f5986b91fa",
+                "name": "1 travel baggage of 20 kg",
+                "description": null,
+                "group": "luggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-2e143efd-23d0-4b19-8455-810133224a5e"
+              ],
+              "legIds": [
+                "leg-a90eaae2-0c47-4cd1-bbe8-6bfee25ec23e"
+              ]
+            }
+          ],
+          "savings": [],
+          "expiresAt": "2024-04-06T19:42:45Z"
+        },
+        "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-66de0778-1e16-49a2-a411-dcae693719a7": {
+          "id": "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-66de0778-1e16-49a2-a411-dcae693719a7",
+          "price": {
+            "amount": 10.99,
+            "currencyCode": "EUR",
+            "currencyConversionApplied": false
+          },
+          "fullPrice": {
+            "amount": 10.99,
+            "currencyCode": "EUR",
+            "currencyConversionApplied": false
+          },
+          "fares": [
+            "fare-c1c0488f-49f9-4453-888d-dfc25d45a8c7"
+          ],
+          "farePassengers": [
+            {
+              "passengers": [
+                {
+                  "id": "pid-0",
+                  "passengerType": "6da99990266c7b991b4f4855a2b0a759e676da41"
+                }
+              ],
+              "fareId": "fare-c1c0488f-49f9-4453-888d-dfc25d45a8c7"
+            }
+          ],
+          "isPartial": false,
+          "flexibility": {
+            "code": "urn:trainline:flex:semiflexi",
+            "name": "semiflexi",
+            "language": "en"
+          },
+          "selectedExtras": [
+            {
+              "id": "8764a604-83d8-488c-bc04-307d4e77bb3a",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "639c52a6c0c188b29cc8463c3b33b5f395dce898",
+                "code": "urn:trainline:busbud:extra:hand_luggage-6762a1db52775613510ea0a7165284d9",
+                "name": "Hand baggage",
+                "description": null,
+                "group": "handLuggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-71dfdc83-e74b-4889-8745-5c3c89d28b70"
+              ],
+              "legIds": [
+                "leg-3fc6287d-faf7-4492-b4eb-7370c619639d"
+              ]
+            },
+            {
+              "id": "4ac25b6b-7a2a-47f5-b1d7-f2967345bf08",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b0a8ae4047af7333764d62fd239e413211895199",
+                "code": "urn:trainline:busbud:extra:travel_luggage.weight_known-c191a36d1472998f3cb223f5986b91fa",
+                "name": "1 travel baggage of 20 kg",
+                "description": null,
+                "group": "luggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-71dfdc83-e74b-4889-8745-5c3c89d28b70"
+              ],
+              "legIds": [
+                "leg-3fc6287d-faf7-4492-b4eb-7370c619639d"
+              ]
+            }
+          ],
+          "comfortClassCorrelationToken": "47bd0d70f44811ee9385a7411b94e886",
+          "billableUnits": [
+            {
+              "correlationToken": "f7de138979979e310506071a75caf938164502b1",
+              "fareLegIds": [
+                "fare-leg-c5168dc8-735d-4c64-8384-b91997c8c6a2"
+              ],
+              "originalPrice": {
+                "amount": 10.99,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "price": {
+                "amount": 10.99,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "passengerIds": [
+                "pid-0"
+              ]
+            }
+          ],
+          "hash": "GYwjfH02yAI=",
+          "composition": [],
+          "availableExtras": [
+            {
+              "id": "8764a604-83d8-488c-bc04-307d4e77bb3a",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "639c52a6c0c188b29cc8463c3b33b5f395dce898",
+                "code": "urn:trainline:busbud:extra:hand_luggage-6762a1db52775613510ea0a7165284d9",
+                "name": "Hand baggage",
+                "description": null,
+                "group": "handLuggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-71dfdc83-e74b-4889-8745-5c3c89d28b70"
+              ],
+              "legIds": [
+                "leg-3fc6287d-faf7-4492-b4eb-7370c619639d"
+              ]
+            },
+            {
+              "id": "4ac25b6b-7a2a-47f5-b1d7-f2967345bf08",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b0a8ae4047af7333764d62fd239e413211895199",
+                "code": "urn:trainline:busbud:extra:travel_luggage.weight_known-c191a36d1472998f3cb223f5986b91fa",
+                "name": "1 travel baggage of 20 kg",
+                "description": null,
+                "group": "luggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-71dfdc83-e74b-4889-8745-5c3c89d28b70"
+              ],
+              "legIds": [
+                "leg-3fc6287d-faf7-4492-b4eb-7370c619639d"
+              ]
+            }
+          ],
+          "savings": [],
+          "expiresAt": "2024-04-06T19:42:45Z"
+        },
+        "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-43d71797-8722-467b-86e7-345a3247c89d": {
+          "id": "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-43d71797-8722-467b-86e7-345a3247c89d",
+          "price": {
+            "amount": 10.99,
+            "currencyCode": "EUR",
+            "currencyConversionApplied": false
+          },
+          "fullPrice": {
+            "amount": 10.99,
+            "currencyCode": "EUR",
+            "currencyConversionApplied": false
+          },
+          "fares": [
+            "fare-7379f0a9-ac57-4b6e-b8fe-9113b747a954"
+          ],
+          "farePassengers": [
+            {
+              "passengers": [
+                {
+                  "id": "pid-0",
+                  "passengerType": "6da99990266c7b991b4f4855a2b0a759e676da41"
+                }
+              ],
+              "fareId": "fare-7379f0a9-ac57-4b6e-b8fe-9113b747a954"
+            }
+          ],
+          "isPartial": false,
+          "flexibility": {
+            "code": "urn:trainline:flex:semiflexi",
+            "name": "semiflexi",
+            "language": "en"
+          },
+          "selectedExtras": [
+            {
+              "id": "5865781f-c7ed-49da-8ca1-45bc00576a73",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "639c52a6c0c188b29cc8463c3b33b5f395dce898",
+                "code": "urn:trainline:busbud:extra:hand_luggage-6762a1db52775613510ea0a7165284d9",
+                "name": "Hand baggage",
+                "description": null,
+                "group": "handLuggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-14327b06-b2ec-4489-8a87-15cf2b779a1d"
+              ],
+              "legIds": [
+                "leg-9812fbad-3070-408c-b51c-36aa559154eb"
+              ]
+            },
+            {
+              "id": "c8d4d606-1fec-42d2-ac0b-286d04cbe52b",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b0a8ae4047af7333764d62fd239e413211895199",
+                "code": "urn:trainline:busbud:extra:travel_luggage.weight_known-c191a36d1472998f3cb223f5986b91fa",
+                "name": "1 travel baggage of 20 kg",
+                "description": null,
+                "group": "luggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-14327b06-b2ec-4489-8a87-15cf2b779a1d"
+              ],
+              "legIds": [
+                "leg-9812fbad-3070-408c-b51c-36aa559154eb"
+              ]
+            }
+          ],
+          "comfortClassCorrelationToken": "47bd1da6f44811ee92782533830b7cd0",
+          "billableUnits": [
+            {
+              "correlationToken": "1ffbb4ce528f2ebd65940a407f58b62fa9abc2b0",
+              "fareLegIds": [
+                "fare-leg-bc227756-f8b4-4dd3-aae7-e5d35833b6db"
+              ],
+              "originalPrice": {
+                "amount": 10.99,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "price": {
+                "amount": 10.99,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "passengerIds": [
+                "pid-0"
+              ]
+            }
+          ],
+          "hash": "09tEY4J6cNM=",
+          "composition": [],
+          "availableExtras": [
+            {
+              "id": "5865781f-c7ed-49da-8ca1-45bc00576a73",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "639c52a6c0c188b29cc8463c3b33b5f395dce898",
+                "code": "urn:trainline:busbud:extra:hand_luggage-6762a1db52775613510ea0a7165284d9",
+                "name": "Hand baggage",
+                "description": null,
+                "group": "handLuggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-14327b06-b2ec-4489-8a87-15cf2b779a1d"
+              ],
+              "legIds": [
+                "leg-9812fbad-3070-408c-b51c-36aa559154eb"
+              ]
+            },
+            {
+              "id": "c8d4d606-1fec-42d2-ac0b-286d04cbe52b",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b0a8ae4047af7333764d62fd239e413211895199",
+                "code": "urn:trainline:busbud:extra:travel_luggage.weight_known-c191a36d1472998f3cb223f5986b91fa",
+                "name": "1 travel baggage of 20 kg",
+                "description": null,
+                "group": "luggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-14327b06-b2ec-4489-8a87-15cf2b779a1d"
+              ],
+              "legIds": [
+                "leg-9812fbad-3070-408c-b51c-36aa559154eb"
+              ]
+            }
+          ],
+          "savings": [],
+          "expiresAt": "2024-04-06T19:42:45Z"
+        },
+        "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-15e969b1-b8d0-47c4-aab8-7eed06d9407c": {
+          "id": "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-15e969b1-b8d0-47c4-aab8-7eed06d9407c",
+          "price": {
+            "amount": 4.99,
+            "currencyCode": "EUR",
+            "currencyConversionApplied": false
+          },
+          "fullPrice": {
+            "amount": 4.99,
+            "currencyCode": "EUR",
+            "currencyConversionApplied": false
+          },
+          "fares": [
+            "fare-650e9771-5d66-444b-983b-352f08624e00"
+          ],
+          "farePassengers": [
+            {
+              "passengers": [
+                {
+                  "id": "pid-0",
+                  "passengerType": "6da99990266c7b991b4f4855a2b0a759e676da41"
+                }
+              ],
+              "fareId": "fare-650e9771-5d66-444b-983b-352f08624e00"
+            }
+          ],
+          "isPartial": false,
+          "flexibility": {
+            "code": "urn:trainline:flex:semiflexi",
+            "name": "semiflexi",
+            "language": "en"
+          },
+          "selectedExtras": [
+            {
+              "id": "c10697b0-2d12-47bb-98bd-c9d99aee1299",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b7a7380c88417ceb0d532715b2a1f810228a0adb",
+                "code": "urn:trainline:flixbus:extra:wifi-5714ded5a21638883fd9110bfe245258",
+                "name": "WiFi",
+                "description": "Free WiFi available onboard.",
+                "group": "wifi"
+              },
+              "farePassengerIds": [
+                "fare-passenger-dcd21f29-f871-4332-8c00-061e1d337733"
+              ],
+              "legIds": [
+                "leg-c9c811c8-fd0e-4c3f-b55f-578d76fd470d"
+              ]
+            },
+            {
+              "id": "64b06a41-1eff-4ace-b728-383accfa4842",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "7aab748ee530ab674977cf1f77d7c790c88517a1",
+                "code": "urn:trainline:flixbus:extra:hand_luggage-d080937cda71c70fa4bc6ac637f3a539",
+                "name": "Hand baggage",
+                "description": "Max. 42 x 30 x 18 cm, max. 7 kg.",
+                "group": "handLuggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-dcd21f29-f871-4332-8c00-061e1d337733"
+              ],
+              "legIds": [
+                "leg-c9c811c8-fd0e-4c3f-b55f-578d76fd470d"
+              ]
+            },
+            {
+              "id": "33db1c59-9604-4a7c-b85e-f35d39d0bb19",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b25db8baf93df3c86e523dca1927e35cf65c63da",
+                "code": "urn:trainline:flixbus:extra:travel_luggage-9ffffacc9e6e2dca85770495f79bb824",
+                "name": "Travel baggage",
+                "description": "Max. 80 x 50 x 30 cm, max. 20 kg.",
+                "group": "luggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-dcd21f29-f871-4332-8c00-061e1d337733"
+              ],
+              "legIds": [
+                "leg-c9c811c8-fd0e-4c3f-b55f-578d76fd470d"
+              ]
+            }
+          ],
+          "comfortClassCorrelationToken": "40c94420f44811ee9816834e1feef65d",
+          "affiliation": {
+            "href": "https://shop.global.flixbus.com/s?departureCity=14068&departureStation=23658&arrivalCity=13938&arrivalStation=16958&rideDate=08.04.2024&adult=1&children=0&bike_slot=0&currency=EUR&uid=direct%3A270334853%3A23658%3A16958&reserve=1&hash=3d5fdeb2&wt_mc=.com.flixbus.meta.trainline.trainline_com.IR.ad&wt_cc1=en-meta&utm_source=trainline&utm_medium=meta&utm_campaign=trainline_com.IR.en-meta&utm_content=com.flixbus&irpid=428897&ircid=5610#Q0ScomC1926&subId1=tlsgp",
+            "label": "Flixbus.com"
+          },
+          "billableUnits": [
+            {
+              "correlationToken": "2b4c60ed12d6cceb1b5ba08a2275eee2a6e53cc4",
+              "fareLegIds": [
+                "fare-leg-bc8b1d5e-7863-4a34-a0a5-f92c4eadee2f"
+              ],
+              "originalPrice": {
+                "amount": 4.99,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "price": {
+                "amount": 4.99,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "passengerIds": [
+                "pid-0"
+              ]
+            }
+          ],
+          "hash": "WNtq3/OJSPU=",
+          "composition": [],
+          "availableExtras": [
+            {
+              "id": "c10697b0-2d12-47bb-98bd-c9d99aee1299",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b7a7380c88417ceb0d532715b2a1f810228a0adb",
+                "code": "urn:trainline:flixbus:extra:wifi-5714ded5a21638883fd9110bfe245258",
+                "name": "WiFi",
+                "description": "Free WiFi available onboard.",
+                "group": "wifi"
+              },
+              "farePassengerIds": [
+                "fare-passenger-dcd21f29-f871-4332-8c00-061e1d337733"
+              ],
+              "legIds": [
+                "leg-c9c811c8-fd0e-4c3f-b55f-578d76fd470d"
+              ]
+            },
+            {
+              "id": "64b06a41-1eff-4ace-b728-383accfa4842",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "7aab748ee530ab674977cf1f77d7c790c88517a1",
+                "code": "urn:trainline:flixbus:extra:hand_luggage-d080937cda71c70fa4bc6ac637f3a539",
+                "name": "Hand baggage",
+                "description": "Max. 42 x 30 x 18 cm, max. 7 kg.",
+                "group": "handLuggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-dcd21f29-f871-4332-8c00-061e1d337733"
+              ],
+              "legIds": [
+                "leg-c9c811c8-fd0e-4c3f-b55f-578d76fd470d"
+              ]
+            },
+            {
+              "id": "33db1c59-9604-4a7c-b85e-f35d39d0bb19",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b25db8baf93df3c86e523dca1927e35cf65c63da",
+                "code": "urn:trainline:flixbus:extra:travel_luggage-9ffffacc9e6e2dca85770495f79bb824",
+                "name": "Travel baggage",
+                "description": "Max. 80 x 50 x 30 cm, max. 20 kg.",
+                "group": "luggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-dcd21f29-f871-4332-8c00-061e1d337733"
+              ],
+              "legIds": [
+                "leg-c9c811c8-fd0e-4c3f-b55f-578d76fd470d"
+              ]
+            }
+          ],
+          "savings": [],
+          "expiresAt": "2024-04-06T19:42:45Z"
+        },
+        "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-abcf39f0-2bf9-4823-b9d2-0ed8ab7ca53e": {
+          "id": "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-abcf39f0-2bf9-4823-b9d2-0ed8ab7ca53e",
+          "price": {
+            "amount": 7.99,
+            "currencyCode": "EUR",
+            "currencyConversionApplied": false
+          },
+          "fullPrice": {
+            "amount": 7.99,
+            "currencyCode": "EUR",
+            "currencyConversionApplied": false
+          },
+          "fares": [
+            "fare-626e01b4-0247-4500-910e-4347c8e3eff4"
+          ],
+          "farePassengers": [
+            {
+              "passengers": [
+                {
+                  "id": "pid-0",
+                  "passengerType": "6da99990266c7b991b4f4855a2b0a759e676da41"
+                }
+              ],
+              "fareId": "fare-626e01b4-0247-4500-910e-4347c8e3eff4"
+            }
+          ],
+          "isPartial": false,
+          "flexibility": {
+            "code": "urn:trainline:flex:semiflexi",
+            "name": "semiflexi",
+            "language": "en"
+          },
+          "selectedExtras": [
+            {
+              "id": "ff35d52a-b0ca-4cd3-9ef3-0512ae830cf5",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b7a7380c88417ceb0d532715b2a1f810228a0adb",
+                "code": "urn:trainline:flixbus:extra:wifi-5714ded5a21638883fd9110bfe245258",
+                "name": "WiFi",
+                "description": "Free WiFi available onboard.",
+                "group": "wifi"
+              },
+              "farePassengerIds": [
+                "fare-passenger-bd1140d3-4e2d-40ee-ac9f-eaeed8a41e72"
+              ],
+              "legIds": [
+                "leg-cdd4943b-d00b-4ebd-b195-8723ae38c8a9"
+              ]
+            },
+            {
+              "id": "a7fbf9a2-d995-45e1-8cde-853ab97f32d7",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "7aab748ee530ab674977cf1f77d7c790c88517a1",
+                "code": "urn:trainline:flixbus:extra:hand_luggage-d080937cda71c70fa4bc6ac637f3a539",
+                "name": "Hand baggage",
+                "description": "Max. 42 x 30 x 18 cm, max. 7 kg.",
+                "group": "handLuggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-bd1140d3-4e2d-40ee-ac9f-eaeed8a41e72"
+              ],
+              "legIds": [
+                "leg-cdd4943b-d00b-4ebd-b195-8723ae38c8a9"
+              ]
+            },
+            {
+              "id": "b42a3450-ba92-42ad-8b87-abe2130f6882",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b25db8baf93df3c86e523dca1927e35cf65c63da",
+                "code": "urn:trainline:flixbus:extra:travel_luggage-9ffffacc9e6e2dca85770495f79bb824",
+                "name": "Travel baggage",
+                "description": "Max. 80 x 50 x 30 cm, max. 20 kg.",
+                "group": "luggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-bd1140d3-4e2d-40ee-ac9f-eaeed8a41e72"
+              ],
+              "legIds": [
+                "leg-cdd4943b-d00b-4ebd-b195-8723ae38c8a9"
+              ]
+            }
+          ],
+          "comfortClassCorrelationToken": "40c94cccf44811ee8312a3908963f644",
+          "affiliation": {
+            "href": "https://shop.global.flixbus.com/s?departureCity=14068&departureStation=23658&arrivalCity=13938&arrivalStation=16958&rideDate=08.04.2024&adult=1&children=0&bike_slot=0&currency=EUR&uid=direct%3A263702093%3A23658%3A16958&reserve=1&hash=2fea715c&wt_mc=.com.flixbus.meta.trainline.trainline_com.IR.ad&wt_cc1=en-meta&utm_source=trainline&utm_medium=meta&utm_campaign=trainline_com.IR.en-meta&utm_content=com.flixbus&irpid=428897&ircid=5610#Q0ScomC1926&subId1=tlsgp",
+            "label": "Flixbus.com"
+          },
+          "billableUnits": [
+            {
+              "correlationToken": "3c2118a4ee066f528130c468d86ec86842fcca91",
+              "fareLegIds": [
+                "fare-leg-4df51a14-7e33-4c0f-a779-b5d1ae2285c3"
+              ],
+              "originalPrice": {
+                "amount": 7.99,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "price": {
+                "amount": 7.99,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "passengerIds": [
+                "pid-0"
+              ]
+            }
+          ],
+          "hash": "KvSuWLAiPPs=",
+          "composition": [],
+          "availableExtras": [
+            {
+              "id": "ff35d52a-b0ca-4cd3-9ef3-0512ae830cf5",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b7a7380c88417ceb0d532715b2a1f810228a0adb",
+                "code": "urn:trainline:flixbus:extra:wifi-5714ded5a21638883fd9110bfe245258",
+                "name": "WiFi",
+                "description": "Free WiFi available onboard.",
+                "group": "wifi"
+              },
+              "farePassengerIds": [
+                "fare-passenger-bd1140d3-4e2d-40ee-ac9f-eaeed8a41e72"
+              ],
+              "legIds": [
+                "leg-cdd4943b-d00b-4ebd-b195-8723ae38c8a9"
+              ]
+            },
+            {
+              "id": "a7fbf9a2-d995-45e1-8cde-853ab97f32d7",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "7aab748ee530ab674977cf1f77d7c790c88517a1",
+                "code": "urn:trainline:flixbus:extra:hand_luggage-d080937cda71c70fa4bc6ac637f3a539",
+                "name": "Hand baggage",
+                "description": "Max. 42 x 30 x 18 cm, max. 7 kg.",
+                "group": "handLuggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-bd1140d3-4e2d-40ee-ac9f-eaeed8a41e72"
+              ],
+              "legIds": [
+                "leg-cdd4943b-d00b-4ebd-b195-8723ae38c8a9"
+              ]
+            },
+            {
+              "id": "b42a3450-ba92-42ad-8b87-abe2130f6882",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b25db8baf93df3c86e523dca1927e35cf65c63da",
+                "code": "urn:trainline:flixbus:extra:travel_luggage-9ffffacc9e6e2dca85770495f79bb824",
+                "name": "Travel baggage",
+                "description": "Max. 80 x 50 x 30 cm, max. 20 kg.",
+                "group": "luggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-bd1140d3-4e2d-40ee-ac9f-eaeed8a41e72"
+              ],
+              "legIds": [
+                "leg-cdd4943b-d00b-4ebd-b195-8723ae38c8a9"
+              ]
+            }
+          ],
+          "savings": [],
+          "expiresAt": "2024-04-06T19:42:45Z"
+        },
+        "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-52a7b05d-aa17-4b58-8fd1-9caf1430b775": {
+          "id": "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-52a7b05d-aa17-4b58-8fd1-9caf1430b775",
+          "price": {
+            "amount": 7.6,
+            "currencyCode": "EUR",
+            "currencyConversionApplied": false
+          },
+          "fullPrice": {
+            "amount": 7.6,
+            "currencyCode": "EUR",
+            "currencyConversionApplied": false
+          },
+          "fares": [
+            "fare-9a921b82-073d-45fb-9480-24d0641bb81d"
+          ],
+          "farePassengers": [
+            {
+              "passengers": [
+                {
+                  "id": "pid-0",
+                  "passengerType": "6da99990266c7b991b4f4855a2b0a759e676da41"
+                }
+              ],
+              "fareId": "fare-9a921b82-073d-45fb-9480-24d0641bb81d"
+            }
+          ],
+          "isPartial": false,
+          "flexibility": {
+            "code": "urn:trainline:flex:semiflexi",
+            "name": "semiflexi",
+            "language": "en"
+          },
+          "selectedExtras": [
+            {
+              "id": "b5fb38a9-99e7-4a00-9911-027f953177de",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "639c52a6c0c188b29cc8463c3b33b5f395dce898",
+                "code": "urn:trainline:busbud:extra:hand_luggage-6762a1db52775613510ea0a7165284d9",
+                "name": "Hand baggage",
+                "description": null,
+                "group": "handLuggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-ea6f264a-d36d-4d43-9bf5-01b33e11fa81"
+              ],
+              "legIds": [
+                "leg-ec350942-d3c6-484c-be45-884a81567c01"
+              ]
+            },
+            {
+              "id": "8eb07042-6750-4718-95db-bdbf0511a3bf",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b0a8ae4047af7333764d62fd239e413211895199",
+                "code": "urn:trainline:busbud:extra:travel_luggage.weight_known-c191a36d1472998f3cb223f5986b91fa",
+                "name": "1 travel baggage of 20 kg",
+                "description": null,
+                "group": "luggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-ea6f264a-d36d-4d43-9bf5-01b33e11fa81"
+              ],
+              "legIds": [
+                "leg-ec350942-d3c6-484c-be45-884a81567c01"
+              ]
+            }
+          ],
+          "comfortClassCorrelationToken": "47bd35c0f44811ee80a203ed843d3cda",
+          "billableUnits": [
+            {
+              "correlationToken": "74caa768acf7d90fa4204c00e72fc93b1de5c58d",
+              "fareLegIds": [
+                "fare-leg-aab889a6-c63c-4fde-b053-a166af355498"
+              ],
+              "originalPrice": {
+                "amount": 7.6,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "price": {
+                "amount": 7.6,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "passengerIds": [
+                "pid-0"
+              ]
+            }
+          ],
+          "hash": "LggjFqdTV4g=",
+          "composition": [],
+          "availableExtras": [
+            {
+              "id": "b5fb38a9-99e7-4a00-9911-027f953177de",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "639c52a6c0c188b29cc8463c3b33b5f395dce898",
+                "code": "urn:trainline:busbud:extra:hand_luggage-6762a1db52775613510ea0a7165284d9",
+                "name": "Hand baggage",
+                "description": null,
+                "group": "handLuggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-ea6f264a-d36d-4d43-9bf5-01b33e11fa81"
+              ],
+              "legIds": [
+                "leg-ec350942-d3c6-484c-be45-884a81567c01"
+              ]
+            },
+            {
+              "id": "8eb07042-6750-4718-95db-bdbf0511a3bf",
+              "price": {
+                "amount": 0,
+                "currencyCode": "EUR",
+                "currencyConversionApplied": false
+              },
+              "selectionStateChangeable": false,
+              "availableQuantity": 1,
+              "extraType": {
+                "id": "b0a8ae4047af7333764d62fd239e413211895199",
+                "code": "urn:trainline:busbud:extra:travel_luggage.weight_known-c191a36d1472998f3cb223f5986b91fa",
+                "name": "1 travel baggage of 20 kg",
+                "description": null,
+                "group": "luggage"
+              },
+              "farePassengerIds": [
+                "fare-passenger-ea6f264a-d36d-4d43-9bf5-01b33e11fa81"
+              ],
+              "legIds": [
+                "leg-ec350942-d3c6-484c-be45-884a81567c01"
+              ]
+            }
+          ],
+          "savings": [],
+          "expiresAt": "2024-04-06T19:42:45Z"
+        }
+      },
+      "responseCards": {},
+      "fares": {
+        "fare-b1aecbcf-028f-4ab9-9948-fcbde026e271": {
+          "id": "fare-b1aecbcf-028f-4ab9-9948-fcbde026e271",
+          "fareLegs": [
+            {
+              "id": "fare-leg-dfe527bf-e765-4d4c-9f47-630e32186448",
+              "legId": "leg-3ace83be-938c-4f93-a4f3-b407bb41d8de",
+              "travelClass": {
+                "id": "27e0298d5428cc4750f53fc9693286ad1c0abfc2",
+                "code": "urn:trainline:flixbus:class:economy",
+                "name": "Standard"
+              },
+              "comfort": {
+                "id": "2cd7ca3748c753fc25857710274d91601d49b720",
+                "code": "urn:trainline:flixbus:comfort:flixbus",
+                "name": "Flixbus",
+                "description": null,
+                "allowsComfortChoice": false,
+                "imageUrl": null
+              },
+              "boardBeforeGuaranteed": 900000,
+              "reservationType": "none",
+              "localTransport": []
+            }
+          ],
+          "fareType": "a5fe01faa00393feab12981f3b45776eda28ae20",
+          "cardIds": [],
+          "origin": "50d7ac874bd30b200b0e91f23c20cc7b83e00e47",
+          "destination": "7e49dd832a2b01eef2e6cbffaf9cab7ddfba15f9",
+          "availability": {
+            "status": "available"
+          },
+          "vouchers": [],
+          "nonContractualTerms": [],
+          "hash": "wS+dwO1XlnM=",
+          "deliveryOptions": []
+        },
+        "fare-9d2fa3bf-4b0a-4457-9e96-113eb66ecd22": {
+          "id": "fare-9d2fa3bf-4b0a-4457-9e96-113eb66ecd22",
+          "fareLegs": [
+            {
+              "id": "fare-leg-efdfc341-d6f7-4fe2-9195-f6663d5d650e",
+              "legId": "leg-65a30d91-f7df-4be1-90d4-4f1dc937c73f",
+              "travelClass": {
+                "id": "df38ca08e14e51f1025df5b7023f0734fd760fa5",
+                "code": "urn:trainline:busbud:class:economy",
+                "name": "Standard"
+              },
+              "comfort": {
+                "id": "c00318cef6221811a18ebdb012e09a0b1e70b7c1",
+                "code": "urn:trainline:busbud:comfort:economy",
+                "name": "Economy",
+                "description": null,
+                "allowsComfortChoice": false,
+                "imageUrl": null
+              },
+              "boardBeforeGuaranteed": 900000,
+              "reservationType": "none",
+              "localTransport": []
+            }
+          ],
+          "fareType": "f8e8bb3219d9018329c41e4b37ec71214602fb9c",
+          "cardIds": [],
+          "origin": "c85dccce12a14f01ad34ca58889e0fb5bf623c32",
+          "destination": "9dd47223a369ec021f9fbda88b8e32a6cdd21ba9",
+          "availability": {
+            "status": "available"
+          },
+          "vouchers": [],
+          "nonContractualTerms": [],
+          "hash": "+EBCzqQ63dg=",
+          "deliveryOptions": []
+        },
+        "fare-1f451e25-e75a-49fa-bbd1-4c17994439c3": {
+          "id": "fare-1f451e25-e75a-49fa-bbd1-4c17994439c3",
+          "fareLegs": [
+            {
+              "id": "fare-leg-1fa5b99a-dbbb-416e-af96-518980294f84",
+              "legId": "leg-67439339-379a-4bf7-a909-1506c4f54aa5",
+              "travelClass": {
+                "id": "df38ca08e14e51f1025df5b7023f0734fd760fa5",
+                "code": "urn:trainline:busbud:class:economy",
+                "name": "Standard"
+              },
+              "comfort": {
+                "id": "c00318cef6221811a18ebdb012e09a0b1e70b7c1",
+                "code": "urn:trainline:busbud:comfort:economy",
+                "name": "Economy",
+                "description": null,
+                "allowsComfortChoice": false,
+                "imageUrl": null
+              },
+              "boardBeforeGuaranteed": 900000,
+              "reservationType": "none",
+              "localTransport": []
+            }
+          ],
+          "fareType": "f8e8bb3219d9018329c41e4b37ec71214602fb9c",
+          "cardIds": [],
+          "origin": "c85dccce12a14f01ad34ca58889e0fb5bf623c32",
+          "destination": "92653b781249f667861ea7d945dc20f66186f908",
+          "availability": {
+            "status": "available"
+          },
+          "vouchers": [],
+          "nonContractualTerms": [],
+          "hash": "IqznlnapxvM=",
+          "deliveryOptions": []
+        },
+        "fare-678fd4ad-777e-43ec-a8e3-396caad4cf1f": {
+          "id": "fare-678fd4ad-777e-43ec-a8e3-396caad4cf1f",
+          "fareLegs": [
+            {
+              "id": "fare-leg-1f1b021c-6e51-49fe-8eb6-aa59d990ff70",
+              "legId": "leg-a4c8dd9e-a373-45f5-b98e-efda5803ba6c",
+              "travelClass": {
+                "id": "27e0298d5428cc4750f53fc9693286ad1c0abfc2",
+                "code": "urn:trainline:flixbus:class:economy",
+                "name": "Standard"
+              },
+              "comfort": {
+                "id": "2cd7ca3748c753fc25857710274d91601d49b720",
+                "code": "urn:trainline:flixbus:comfort:flixbus",
+                "name": "Flixbus",
+                "description": null,
+                "allowsComfortChoice": false,
+                "imageUrl": null
+              },
+              "boardBeforeGuaranteed": 900000,
+              "reservationType": "none",
+              "localTransport": []
+            }
+          ],
+          "fareType": "a5fe01faa00393feab12981f3b45776eda28ae20",
+          "cardIds": [],
+          "origin": "50d7ac874bd30b200b0e91f23c20cc7b83e00e47",
+          "destination": "7e49dd832a2b01eef2e6cbffaf9cab7ddfba15f9",
+          "availability": {
+            "status": "available"
+          },
+          "vouchers": [],
+          "nonContractualTerms": [],
+          "hash": "wS+dwO1XlnM=",
+          "deliveryOptions": []
+        },
+        "fare-6d079c03-6eb1-4bec-badb-742263011415": {
+          "id": "fare-6d079c03-6eb1-4bec-badb-742263011415",
+          "fareLegs": [
+            {
+              "id": "fare-leg-c6b4aa8f-6559-4b0b-8de3-dde036f278ff",
+              "legId": "leg-a90eaae2-0c47-4cd1-bbe8-6bfee25ec23e",
+              "travelClass": {
+                "id": "df38ca08e14e51f1025df5b7023f0734fd760fa5",
+                "code": "urn:trainline:busbud:class:economy",
+                "name": "Standard"
+              },
+              "comfort": {
+                "id": "c00318cef6221811a18ebdb012e09a0b1e70b7c1",
+                "code": "urn:trainline:busbud:comfort:economy",
+                "name": "Economy",
+                "description": null,
+                "allowsComfortChoice": false,
+                "imageUrl": null
+              },
+              "boardBeforeGuaranteed": 900000,
+              "reservationType": "none",
+              "localTransport": []
+            }
+          ],
+          "fareType": "f8e8bb3219d9018329c41e4b37ec71214602fb9c",
+          "cardIds": [],
+          "origin": "c85dccce12a14f01ad34ca58889e0fb5bf623c32",
+          "destination": "9dd47223a369ec021f9fbda88b8e32a6cdd21ba9",
+          "availability": {
+            "status": "available"
+          },
+          "vouchers": [],
+          "nonContractualTerms": [],
+          "hash": "+EBCzqQ63dg=",
+          "deliveryOptions": []
+        },
+        "fare-c1c0488f-49f9-4453-888d-dfc25d45a8c7": {
+          "id": "fare-c1c0488f-49f9-4453-888d-dfc25d45a8c7",
+          "fareLegs": [
+            {
+              "id": "fare-leg-c5168dc8-735d-4c64-8384-b91997c8c6a2",
+              "legId": "leg-3fc6287d-faf7-4492-b4eb-7370c619639d",
+              "travelClass": {
+                "id": "df38ca08e14e51f1025df5b7023f0734fd760fa5",
+                "code": "urn:trainline:busbud:class:economy",
+                "name": "Standard"
+              },
+              "comfort": {
+                "id": "c00318cef6221811a18ebdb012e09a0b1e70b7c1",
+                "code": "urn:trainline:busbud:comfort:economy",
+                "name": "Economy",
+                "description": null,
+                "allowsComfortChoice": false,
+                "imageUrl": null
+              },
+              "boardBeforeGuaranteed": 900000,
+              "reservationType": "none",
+              "localTransport": []
+            }
+          ],
+          "fareType": "f8e8bb3219d9018329c41e4b37ec71214602fb9c",
+          "cardIds": [],
+          "origin": "c85dccce12a14f01ad34ca58889e0fb5bf623c32",
+          "destination": "92653b781249f667861ea7d945dc20f66186f908",
+          "availability": {
+            "status": "available"
+          },
+          "vouchers": [],
+          "nonContractualTerms": [],
+          "hash": "IqznlnapxvM=",
+          "deliveryOptions": []
+        },
+        "fare-7379f0a9-ac57-4b6e-b8fe-9113b747a954": {
+          "id": "fare-7379f0a9-ac57-4b6e-b8fe-9113b747a954",
+          "fareLegs": [
+            {
+              "id": "fare-leg-bc227756-f8b4-4dd3-aae7-e5d35833b6db",
+              "legId": "leg-9812fbad-3070-408c-b51c-36aa559154eb",
+              "travelClass": {
+                "id": "df38ca08e14e51f1025df5b7023f0734fd760fa5",
+                "code": "urn:trainline:busbud:class:economy",
+                "name": "Standard"
+              },
+              "comfort": {
+                "id": "c00318cef6221811a18ebdb012e09a0b1e70b7c1",
+                "code": "urn:trainline:busbud:comfort:economy",
+                "name": "Economy",
+                "description": null,
+                "allowsComfortChoice": false,
+                "imageUrl": null
+              },
+              "boardBeforeGuaranteed": 900000,
+              "reservationType": "none",
+              "localTransport": []
+            }
+          ],
+          "fareType": "f8e8bb3219d9018329c41e4b37ec71214602fb9c",
+          "cardIds": [],
+          "origin": "c85dccce12a14f01ad34ca58889e0fb5bf623c32",
+          "destination": "9dd47223a369ec021f9fbda88b8e32a6cdd21ba9",
+          "availability": {
+            "status": "available"
+          },
+          "vouchers": [],
+          "nonContractualTerms": [],
+          "hash": "+EBCzqQ63dg=",
+          "deliveryOptions": []
+        },
+        "fare-650e9771-5d66-444b-983b-352f08624e00": {
+          "id": "fare-650e9771-5d66-444b-983b-352f08624e00",
+          "fareLegs": [
+            {
+              "id": "fare-leg-bc8b1d5e-7863-4a34-a0a5-f92c4eadee2f",
+              "legId": "leg-c9c811c8-fd0e-4c3f-b55f-578d76fd470d",
+              "travelClass": {
+                "id": "27e0298d5428cc4750f53fc9693286ad1c0abfc2",
+                "code": "urn:trainline:flixbus:class:economy",
+                "name": "Standard"
+              },
+              "comfort": {
+                "id": "2cd7ca3748c753fc25857710274d91601d49b720",
+                "code": "urn:trainline:flixbus:comfort:flixbus",
+                "name": "Flixbus",
+                "description": null,
+                "allowsComfortChoice": false,
+                "imageUrl": null
+              },
+              "boardBeforeGuaranteed": 900000,
+              "reservationType": "none",
+              "localTransport": []
+            }
+          ],
+          "fareType": "a5fe01faa00393feab12981f3b45776eda28ae20",
+          "cardIds": [],
+          "origin": "50d7ac874bd30b200b0e91f23c20cc7b83e00e47",
+          "destination": "7e49dd832a2b01eef2e6cbffaf9cab7ddfba15f9",
+          "availability": {
+            "status": "available"
+          },
+          "vouchers": [],
+          "nonContractualTerms": [],
+          "hash": "wS+dwO1XlnM=",
+          "deliveryOptions": []
+        },
+        "fare-626e01b4-0247-4500-910e-4347c8e3eff4": {
+          "id": "fare-626e01b4-0247-4500-910e-4347c8e3eff4",
+          "fareLegs": [
+            {
+              "id": "fare-leg-4df51a14-7e33-4c0f-a779-b5d1ae2285c3",
+              "legId": "leg-cdd4943b-d00b-4ebd-b195-8723ae38c8a9",
+              "travelClass": {
+                "id": "27e0298d5428cc4750f53fc9693286ad1c0abfc2",
+                "code": "urn:trainline:flixbus:class:economy",
+                "name": "Standard"
+              },
+              "comfort": {
+                "id": "2cd7ca3748c753fc25857710274d91601d49b720",
+                "code": "urn:trainline:flixbus:comfort:flixbus",
+                "name": "Flixbus",
+                "description": null,
+                "allowsComfortChoice": false,
+                "imageUrl": null
+              },
+              "boardBeforeGuaranteed": 900000,
+              "reservationType": "none",
+              "localTransport": []
+            }
+          ],
+          "fareType": "a5fe01faa00393feab12981f3b45776eda28ae20",
+          "cardIds": [],
+          "origin": "50d7ac874bd30b200b0e91f23c20cc7b83e00e47",
+          "destination": "7e49dd832a2b01eef2e6cbffaf9cab7ddfba15f9",
+          "availability": {
+            "status": "available"
+          },
+          "vouchers": [],
+          "nonContractualTerms": [],
+          "hash": "wS+dwO1XlnM=",
+          "deliveryOptions": []
+        },
+        "fare-9a921b82-073d-45fb-9480-24d0641bb81d": {
+          "id": "fare-9a921b82-073d-45fb-9480-24d0641bb81d",
+          "fareLegs": [
+            {
+              "id": "fare-leg-aab889a6-c63c-4fde-b053-a166af355498",
+              "legId": "leg-ec350942-d3c6-484c-be45-884a81567c01",
+              "travelClass": {
+                "id": "df38ca08e14e51f1025df5b7023f0734fd760fa5",
+                "code": "urn:trainline:busbud:class:economy",
+                "name": "Standard"
+              },
+              "comfort": {
+                "id": "c00318cef6221811a18ebdb012e09a0b1e70b7c1",
+                "code": "urn:trainline:busbud:comfort:economy",
+                "name": "Economy",
+                "description": null,
+                "allowsComfortChoice": false,
+                "imageUrl": null
+              },
+              "boardBeforeGuaranteed": 900000,
+              "reservationType": "none",
+              "localTransport": []
+            }
+          ],
+          "fareType": "42e7388a4308d5d82d0b1b02beb3599eccfe011a",
+          "cardIds": [],
+          "origin": "c85dccce12a14f01ad34ca58889e0fb5bf623c32",
+          "destination": "92653b781249f667861ea7d945dc20f66186f908",
+          "availability": {
+            "status": "available"
+          },
+          "vouchers": [],
+          "nonContractualTerms": [],
+          "hash": "0gf/0yM8TW0=",
+          "deliveryOptions": []
+        }
+      },
+      "legs": {
+        "leg-3ace83be-938c-4f93-a4f3-b407bb41d8de": {
+          "id": "leg-3ace83be-938c-4f93-a4f3-b407bb41d8de",
+          "duration": "PT3H15M",
+          "departAt": "2024-04-08T20:00:00+01:00",
+          "arriveAt": "2024-04-08T23:15:00+01:00",
+          "timetableId": "",
+          "arrivalLocation": "7e49dd832a2b01eef2e6cbffaf9cab7ddfba15f9",
+          "departureLocation": "50d7ac874bd30b200b0e91f23c20cc7b83e00e47",
+          "carrier": "f661b2b6266e31d7d2da037596772d357d2d7a4a",
+          "transportMode": "4b375128265ad3c90385819c6d9e8c41cf472515",
+          "vehicleAttributes": [],
+          "hash": "Onx82QBhg2A="
+        },
+        "leg-65a30d91-f7df-4be1-90d4-4f1dc937c73f": {
+          "id": "leg-65a30d91-f7df-4be1-90d4-4f1dc937c73f",
+          "duration": "PT3H30M",
+          "departAt": "2024-04-08T20:00:00+01:00",
+          "arriveAt": "2024-04-08T23:30:00+01:00",
+          "timetableId": "",
+          "arrivalLocation": "9dd47223a369ec021f9fbda88b8e32a6cdd21ba9",
+          "departureLocation": "c85dccce12a14f01ad34ca58889e0fb5bf623c32",
+          "carrier": "7f3962ba868b5206b7027a2cbaeedc46178dd4dc",
+          "transportMode": "9e3805a769d97615f00714c7bef5847f17d98f27",
+          "vehicleAttributes": [],
+          "hash": "EJaWvfbYF7Y="
+        },
+        "leg-67439339-379a-4bf7-a909-1506c4f54aa5": {
+          "id": "leg-67439339-379a-4bf7-a909-1506c4f54aa5",
+          "duration": "PT3H15M",
+          "departAt": "2024-04-08T20:30:00+01:00",
+          "arriveAt": "2024-04-08T23:45:00+01:00",
+          "timetableId": "",
+          "arrivalLocation": "92653b781249f667861ea7d945dc20f66186f908",
+          "departureLocation": "c85dccce12a14f01ad34ca58889e0fb5bf623c32",
+          "carrier": "7f3962ba868b5206b7027a2cbaeedc46178dd4dc",
+          "transportMode": "9e3805a769d97615f00714c7bef5847f17d98f27",
+          "vehicleAttributes": [],
+          "hash": "82PGobwTNQg="
+        },
+        "leg-a4c8dd9e-a373-45f5-b98e-efda5803ba6c": {
+          "id": "leg-a4c8dd9e-a373-45f5-b98e-efda5803ba6c",
+          "duration": "PT3H15M",
+          "departAt": "2024-04-08T20:30:00+01:00",
+          "arriveAt": "2024-04-08T23:45:00+01:00",
+          "timetableId": "",
+          "arrivalLocation": "7e49dd832a2b01eef2e6cbffaf9cab7ddfba15f9",
+          "departureLocation": "50d7ac874bd30b200b0e91f23c20cc7b83e00e47",
+          "carrier": "f661b2b6266e31d7d2da037596772d357d2d7a4a",
+          "transportMode": "4b375128265ad3c90385819c6d9e8c41cf472515",
+          "vehicleAttributes": [],
+          "hash": "RN9g/aFKFuE="
+        },
+        "leg-a90eaae2-0c47-4cd1-bbe8-6bfee25ec23e": {
+          "id": "leg-a90eaae2-0c47-4cd1-bbe8-6bfee25ec23e",
+          "duration": "PT3H35M",
+          "departAt": "2024-04-08T20:30:00+01:00",
+          "arriveAt": "2024-04-09T00:05:00+01:00",
+          "timetableId": "",
+          "arrivalLocation": "9dd47223a369ec021f9fbda88b8e32a6cdd21ba9",
+          "departureLocation": "c85dccce12a14f01ad34ca58889e0fb5bf623c32",
+          "carrier": "7f3962ba868b5206b7027a2cbaeedc46178dd4dc",
+          "transportMode": "9e3805a769d97615f00714c7bef5847f17d98f27",
+          "vehicleAttributes": [],
+          "hash": "XwzE+Je+GiY="
+        },
+        "leg-3fc6287d-faf7-4492-b4eb-7370c619639d": {
+          "id": "leg-3fc6287d-faf7-4492-b4eb-7370c619639d",
+          "duration": "PT3H20M",
+          "departAt": "2024-04-08T20:45:00+01:00",
+          "arriveAt": "2024-04-09T00:05:00+01:00",
+          "timetableId": "",
+          "arrivalLocation": "92653b781249f667861ea7d945dc20f66186f908",
+          "departureLocation": "c85dccce12a14f01ad34ca58889e0fb5bf623c32",
+          "carrier": "7f3962ba868b5206b7027a2cbaeedc46178dd4dc",
+          "transportMode": "9e3805a769d97615f00714c7bef5847f17d98f27",
+          "vehicleAttributes": [],
+          "hash": "kfekdVXBXzY="
+        },
+        "leg-9812fbad-3070-408c-b51c-36aa559154eb": {
+          "id": "leg-9812fbad-3070-408c-b51c-36aa559154eb",
+          "duration": "PT3H30M",
+          "departAt": "2024-04-08T21:00:00+01:00",
+          "arriveAt": "2024-04-09T00:30:00+01:00",
+          "timetableId": "",
+          "arrivalLocation": "9dd47223a369ec021f9fbda88b8e32a6cdd21ba9",
+          "departureLocation": "c85dccce12a14f01ad34ca58889e0fb5bf623c32",
+          "carrier": "7f3962ba868b5206b7027a2cbaeedc46178dd4dc",
+          "transportMode": "9e3805a769d97615f00714c7bef5847f17d98f27",
+          "vehicleAttributes": [],
+          "hash": "muMKHYe9+H0="
+        },
+        "leg-c9c811c8-fd0e-4c3f-b55f-578d76fd470d": {
+          "id": "leg-c9c811c8-fd0e-4c3f-b55f-578d76fd470d",
+          "duration": "PT3H25M",
+          "departAt": "2024-04-08T21:45:00+01:00",
+          "arriveAt": "2024-04-09T01:10:00+01:00",
+          "timetableId": "",
+          "arrivalLocation": "7e49dd832a2b01eef2e6cbffaf9cab7ddfba15f9",
+          "departureLocation": "50d7ac874bd30b200b0e91f23c20cc7b83e00e47",
+          "carrier": "f661b2b6266e31d7d2da037596772d357d2d7a4a",
+          "transportMode": "4b375128265ad3c90385819c6d9e8c41cf472515",
+          "vehicleAttributes": [],
+          "hash": "jj2CFa5rlB0="
+        },
+        "leg-cdd4943b-d00b-4ebd-b195-8723ae38c8a9": {
+          "id": "leg-cdd4943b-d00b-4ebd-b195-8723ae38c8a9",
+          "duration": "PT3H40M",
+          "departAt": "2024-04-08T22:55:00+01:00",
+          "arriveAt": "2024-04-09T02:35:00+01:00",
+          "timetableId": "",
+          "arrivalLocation": "7e49dd832a2b01eef2e6cbffaf9cab7ddfba15f9",
+          "departureLocation": "50d7ac874bd30b200b0e91f23c20cc7b83e00e47",
+          "carrier": "f661b2b6266e31d7d2da037596772d357d2d7a4a",
+          "transportMode": "4b375128265ad3c90385819c6d9e8c41cf472515",
+          "vehicleAttributes": [],
+          "hash": "KNjVBhxg4Ng="
+        },
+        "leg-ec350942-d3c6-484c-be45-884a81567c01": {
+          "id": "leg-ec350942-d3c6-484c-be45-884a81567c01",
+          "duration": "PT3H30M",
+          "departAt": "2024-04-08T23:15:00+01:00",
+          "arriveAt": "2024-04-09T02:45:00+01:00",
+          "timetableId": "",
+          "arrivalLocation": "92653b781249f667861ea7d945dc20f66186f908",
+          "departureLocation": "c85dccce12a14f01ad34ca58889e0fb5bf623c32",
+          "carrier": "2bba318dff65356a6191752d86ad09f1e218ee34",
+          "transportMode": "9e3805a769d97615f00714c7bef5847f17d98f27",
+          "vehicleAttributes": [],
+          "hash": "XGD3LrrudiA="
+        }
+      },
+      "sections": {
+        "section-ac6045fc-9cb6-4226-968a-3a23b8e75c15": {
+          "alternatives": [
+            "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-26e86958-6315-44d6-8cf7-1ec9660b02fd"
+          ],
+          "mixedLegComforts": false,
+          "id": "section-ac6045fc-9cb6-4226-968a-3a23b8e75c15"
+        },
+        "section-9271d1e4-079b-4f19-9c02-3637a7f7163b": {
+          "alternatives": [
+            "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-1eade8b3-4653-42a3-81fc-44edfedfbdd5"
+          ],
+          "mixedLegComforts": false,
+          "id": "section-9271d1e4-079b-4f19-9c02-3637a7f7163b"
+        },
+        "section-d73d7f66-c9d1-4a07-8455-72d1b1728370": {
+          "alternatives": [
+            "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-11360451-7e45-459c-837c-c4194dc36f5a"
+          ],
+          "mixedLegComforts": false,
+          "id": "section-d73d7f66-c9d1-4a07-8455-72d1b1728370"
+        },
+        "section-0c639a4e-69f3-41ad-926a-5f89ca27e8a6": {
+          "alternatives": [
+            "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-0d008365-c2bd-46b0-bfbf-db26e218de97"
+          ],
+          "mixedLegComforts": false,
+          "id": "section-0c639a4e-69f3-41ad-926a-5f89ca27e8a6"
+        },
+        "section-3d7ebc22-0369-432a-8820-40e0fd87479c": {
+          "alternatives": [
+            "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-0bc580ea-c158-4db7-b55e-abc4eb7804ca"
+          ],
+          "mixedLegComforts": false,
+          "id": "section-3d7ebc22-0369-432a-8820-40e0fd87479c"
+        },
+        "section-0c7da159-0e78-4392-8b0b-b881bdae68c9": {
+          "alternatives": [
+            "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-66de0778-1e16-49a2-a411-dcae693719a7"
+          ],
+          "mixedLegComforts": false,
+          "id": "section-0c7da159-0e78-4392-8b0b-b881bdae68c9"
+        },
+        "section-fb3ed48a-7d97-4018-984f-8635caeaa670": {
+          "alternatives": [
+            "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-43d71797-8722-467b-86e7-345a3247c89d"
+          ],
+          "mixedLegComforts": false,
+          "id": "section-fb3ed48a-7d97-4018-984f-8635caeaa670"
+        },
+        "section-82a2ac4a-1df7-429d-9582-5aec28865771": {
+          "alternatives": [
+            "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-15e969b1-b8d0-47c4-aab8-7eed06d9407c"
+          ],
+          "mixedLegComforts": false,
+          "id": "section-82a2ac4a-1df7-429d-9582-5aec28865771"
+        },
+        "section-12cc4b9f-68cf-42c2-982d-a983d6d9bf26": {
+          "alternatives": [
+            "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-abcf39f0-2bf9-4823-b9d2-0ed8ab7ca53e"
+          ],
+          "mixedLegComforts": false,
+          "id": "section-12cc4b9f-68cf-42c2-982d-a983d6d9bf26"
+        },
+        "section-afceb2fb-40c9-4a8d-b2f2-c1cc08489393": {
+          "alternatives": [
+            "11ba1853-29cb-4aa4-a92b-a884cd239927%alternative-52a7b05d-aa17-4b58-8fd1-9caf1430b775"
+          ],
+          "mixedLegComforts": false,
+          "id": "section-afceb2fb-40c9-4a8d-b2f2-c1cc08489393"
+        }
+      },
+      "deliveryOptions": {},
+      "inwardSearch": false
+    },
+    "brands": {},
+    "carriers": {
+      "f661b2b6266e31d7d2da037596772d357d2d7a4a": {
+        "id": "f661b2b6266e31d7d2da037596772d357d2d7a4a",
+        "code": "urn:trainline:flixbus:carrier:flixbus",
+        "name": "Flixbus"
+      },
+      "7f3962ba868b5206b7027a2cbaeedc46178dd4dc": {
+        "id": "7f3962ba868b5206b7027a2cbaeedc46178dd4dc",
+        "code": "urn:trainline:busbud:carrier:rede_expressos",
+        "name": "Rede Expressos"
+      },
+      "2bba318dff65356a6191752d86ad09f1e218ee34": {
+        "id": "2bba318dff65356a6191752d86ad09f1e218ee34",
+        "code": "urn:trainline:busbud:carrier:renex",
+        "name": "Renex"
+      }
+    },
+    "locations": {
+      "7e49dd832a2b01eef2e6cbffaf9cab7ddfba15f9": {
+        "id": "7e49dd832a2b01eef2e6cbffaf9cab7ddfba15f9",
+        "code": "urn:trainline:flixbus:loc:flix-16958",
+        "locationType": "station",
+        "name": "Lisbon (Oriente)",
+        "shortName": null,
+        "latitude": 38.7677,
+        "longitude": -9.1006,
+        "timezone": "Europe/Lisbon",
+        "countryCode": "PT",
+        "language": null,
+        "address": [
+          "Gare do Oriente"
+        ],
+        "aliases": [
+          "flix-16958"
+        ],
+        "parents": []
+      },
+      "50d7ac874bd30b200b0e91f23c20cc7b83e00e47": {
+        "id": "50d7ac874bd30b200b0e91f23c20cc7b83e00e47",
+        "code": "urn:trainline:flixbus:loc:flix-23658",
+        "locationType": "station",
+        "name": "Porto (TIC - Campanhã)",
+        "shortName": null,
+        "latitude": 41.1518,
+        "longitude": -8.583,
+        "timezone": "Europe/Lisbon",
+        "countryCode": "PT",
+        "language": null,
+        "address": [
+          "R. de Bonjóia",
+          "691"
+        ],
+        "aliases": [
+          "flix-23658"
+        ],
+        "parents": []
+      },
+      "9dd47223a369ec021f9fbda88b8e32a6cdd21ba9": {
+        "id": "9dd47223a369ec021f9fbda88b8e32a6cdd21ba9",
+        "code": "urn:trainline:busbud:loc:3516",
+        "locationType": "station",
+        "name": "Lisbon Sete Rios",
+        "shortName": null,
+        "latitude": 38.7418,
+        "longitude": -9.1667,
+        "timezone": "Europe/Lisbon",
+        "countryCode": null,
+        "language": null,
+        "address": [
+          "R. Prof. Lima Basto 133",
+          "1500-423 Lisboa",
+          "Portugal"
+        ],
+        "aliases": [
+          "3516"
+        ],
+        "parents": []
+      },
+      "c85dccce12a14f01ad34ca58889e0fb5bf623c32": {
+        "id": "c85dccce12a14f01ad34ca58889e0fb5bf623c32",
+        "code": "urn:trainline:busbud:loc:96037",
+        "locationType": "station",
+        "name": "TIC - Terminal Intermodal Campanhã",
+        "shortName": null,
+        "latitude": 41.1517,
+        "longitude": -8.5829,
+        "timezone": "Europe/Lisbon",
+        "countryCode": null,
+        "language": null,
+        "address": null,
+        "aliases": [
+          "96037"
+        ],
+        "parents": []
+      },
+      "92653b781249f667861ea7d945dc20f66186f908": {
+        "id": "92653b781249f667861ea7d945dc20f66186f908",
+        "code": "urn:trainline:busbud:loc:35929",
+        "locationType": "station",
+        "name": "Lisbon, Estação do Oriente",
+        "shortName": null,
+        "latitude": 38.7678,
+        "longitude": -9.0993,
+        "timezone": "Europe/Lisbon",
+        "countryCode": null,
+        "language": null,
+        "address": [
+          "Estação do Oriente",
+          "Av. Dom João II",
+          "1990",
+          "Portugal"
+        ],
+        "aliases": [
+          "35929"
+        ],
+        "parents": []
+      }
+    },
+    "discountCards": {},
+    "disruptions": {},
+    "fareTypes": {
+      "a5fe01faa00393feab12981f3b45776eda28ae20": {
+        "id": "a5fe01faa00393feab12981f3b45776eda28ae20",
+        "code": "urn:trainline:flixbus:fare:8243db0deb7c5a496c07dd821e295f6d",
+        "name": "Flixbus",
+        "conditionsSummary": "Refundable for free until 30 days before departure as Flixbus.com coupons only. A €1 fee per passenger applies between 29 and 14 days before departure. A €3 fee per passenger applies between 14 and 2 days before departure. A €5 fee per passenger applies until 15 minutes before departure. Non-refundable the last 15 minutes before departure.",
+        "conditions": [
+          {
+            "title": "DESCRIPTION",
+            "description": "Refundable for free until 30 days before departure as Flixbus.com coupons only. A €1 fee per passenger applies between 29 and 14 days before departure. A €3 fee per passenger applies between 14 and 2 days before departure. A €5 fee per passenger applies until 15 minutes before departure. Non-refundable the last 15 minutes before departure."
+          }
+        ],
+        "farePricingCategory": "default",
+        "secondaryFare": null,
+        "validityPeriods": null
+      },
+      "f8e8bb3219d9018329c41e4b37ec71214602fb9c": {
+        "id": "f8e8bb3219d9018329c41e4b37ec71214602fb9c",
+        "code": "urn:trainline:busbud:fare:c358d02bfaad75831e2572233e6f32f5",
+        "name": "Rede Expressos",
+        "conditionsSummary": "Non-refundable. Non-exchangeable. Please be ready to board 15 minutes before departure. Non-refundable booking fee of €1 per passenger.",
+        "conditions": [
+          {
+            "title": "DESCRIPTION",
+            "description": "Non-refundable. Non-exchangeable. Please be ready to board 15 minutes before departure. Non-refundable booking fee of €1 per passenger."
+          }
+        ],
+        "farePricingCategory": "default",
+        "secondaryFare": null,
+        "validityPeriods": null
+      },
+      "42e7388a4308d5d82d0b1b02beb3599eccfe011a": {
+        "id": "42e7388a4308d5d82d0b1b02beb3599eccfe011a",
+        "code": "urn:trainline:busbud:fare:cf8debb0544fc1924ba29f7a0a031d44",
+        "name": "Renex Economy",
+        "conditionsSummary": "Non-refundable. Non-exchangeable. Please be ready to board 15 minutes before departure. Non-refundable booking fee of €1 per passenger.",
+        "conditions": [
+          {
+            "title": "DESCRIPTION",
+            "description": "Non-refundable. Non-exchangeable. Please be ready to board 15 minutes before departure. Non-refundable booking fee of €1 per passenger."
+          }
+        ],
+        "farePricingCategory": "default",
+        "secondaryFare": null,
+        "validityPeriods": null
+      }
+    },
+    "routeRestrictions": {},
+    "fareRestrictions": {},
+    "fareCategories": {},
+    "transportModes": {
+      "4b375128265ad3c90385819c6d9e8c41cf472515": {
+        "id": "4b375128265ad3c90385819c6d9e8c41cf472515",
+        "code": "urn:trainline:flixbus:tramod:bus",
+        "name": "Coach",
+        "mode": "bus"
+      },
+      "9e3805a769d97615f00714c7bef5847f17d98f27": {
+        "id": "9e3805a769d97615f00714c7bef5847f17d98f27",
+        "code": "urn:trainline:busbud:tramod:bus",
+        "name": "Coach",
+        "mode": "bus"
+      }
+    },
+    "passengerTypes": {
+      "3d1533392146c1b5646e756c96583ff68bca42a8": {
+        "id": "3d1533392146c1b5646e756c96583ff68bca42a8",
+        "name": "adult",
+        "code": "urn:trainline:flixbus:psgr:adult",
+        "ageRestriction": {
+          "lowerBound": 26
+        }
+      },
+      "6da99990266c7b991b4f4855a2b0a759e676da41": {
+        "id": "6da99990266c7b991b4f4855a2b0a759e676da41",
+        "name": "adult",
+        "code": "urn:trainline:busbud:psgr:adult",
+        "ageRestriction": {
+          "lowerBound": 26
+        }
+      }
+    },
+    "appliedDiscounts": {}
+  }
+}
